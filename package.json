@@ -7,6 +7,9 @@
     "lib",
     "es"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "index.js",
   "scripts": {
     "build": "vc-tools run build",
