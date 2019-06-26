@@ -10,7 +10,7 @@
   "scripts": {
     "build": "vc-tools run build",
     "compile": "vc-tools run compile --babel-runtime",
-    "test": "\"Error: no test specified\""
+    "test": "echo \"no test specified\""
   },
   "author": "",
   "license": "ISC",
