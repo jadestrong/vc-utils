@@ -1,0 +1,25 @@
+{
+  "name": "vc-utils",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "files": [
+    "lib",
+    "es"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "build": "vc-tools run build",
+    "compile": "vc-tools run compile --babel-runtime",
+    "test": "\"Error: no test specified\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "add-dom-event-listener": "^1.1.0",
+    "classnames": "^2.2.6",
+    "component-classes": "^1.2.6",
+    "vc-tool": "^1.0.1",
+    "warning": "^4.0.3"
+  }
+}
