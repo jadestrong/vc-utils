@@ -1,5 +1,5 @@
 {
-  "name": "@vc/util",
+  "name": "vc-util-collection",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -7,10 +7,6 @@
     "lib",
     "es"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
-  "main": "index.js",
   "scripts": {
     "build": "vc-tools run build",
     "compile": "vc-tools run compile --babel-runtime",
